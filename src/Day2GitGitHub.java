@@ -1,7 +1,7 @@
 public class Day2GitGitHub {
     /*
-    1-) git init ---> Local repo olusturmak icin yani .git ileklasorumuzun icindeki dosyalari
-        ilisilendirmek icin kullanilir.
+    1-) git init ---> Local repo olusturmak icin yani .git ile klasorumuzun icindeki dosyalari
+        ilisilendirmek icin kullanilir
 
     2-) git add . ---> Working space'den (yani yerel) dosyalarimi staging area'ya (yani commitlemek icin beklenen yer)
         gonderir.
@@ -18,7 +18,9 @@ public class Day2GitGitHub {
         Not: Yukaridaki iki komutu tek seferde kullandiktan sonra ikinci commit'lerim icin sadece git push kullaniriz.
         Not : git log --oneline ---> Commitlerimdeki yani verisonlarimdaki durumu gosterir
      */
+
     public static void main(String[] args) {
+
         System.out.println("GitHub'i da ogrendim");
     }
 }
